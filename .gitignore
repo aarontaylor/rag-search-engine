@@ -13,3 +13,9 @@ wheels/
 /data/
 /data
 data/
+
+# env
+.env
+
+# Cache
+cache/
