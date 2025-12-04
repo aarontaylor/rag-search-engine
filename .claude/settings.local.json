@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(gh auth:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git rm:*)",
+      "Bash(gh repo view:*)"
     ],
     "deny": [],
     "ask": []
